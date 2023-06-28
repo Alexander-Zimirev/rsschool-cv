@@ -5,16 +5,19 @@
 ***
 
 ### Contact:
-__Phone:__ +79132256043
-__E-mail:__ wizzardd@mail.ru
-__Telegram:__ @foxeg007
-__Discord:__ Фокс (@Alexander-Zimirev)
+
+__Phone:__ +79132256043  
+__E-mail:__ wizzardd@mail.ru  
+__Telegram:__ @foxeg007  
+__Discord:__ Фокс (@Alexander-Zimirev)  
 
 ***
 
 ### About Me
 
-> Historian by diploma, but, despite the humanitarian education, at the moment I administer the electronic document management system. I like to learn new things, learn and reach new heights of personal development. I want to learn how to make websites. There is an interesting project for me that I would like to implement on my own, try my hand at development.
+> Historia magistra vitae
+
+Historian by diploma, but, despite the humanitarian education, at the moment I administer the electronic document management system. I like to learn new things, learn and reach new heights of personal development. I want to learn how to make websites. There is an interesting project for me that I would like to implement on my own, try my hand at development.
 
 ***
 
