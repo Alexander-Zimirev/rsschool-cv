@@ -1,5 +1,5 @@
 body {
-  background-image: url('./assets/img/sky.jpg');
+  background-image: url('.rsschool-cv-html/sky.jpg');
   background-repeat: no-repeat;
   background-size: auto;
 }
@@ -9,7 +9,6 @@ body {
 
   }
 
-
 * {
     box-sizing: border-box;
   }
@@ -18,7 +17,6 @@ body {
         max-width: 1440px;
         margin: 0 auto;
       }
-
 
       .nav-list {
         display: flex;
