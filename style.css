@@ -1,13 +1,22 @@
 body {
   background-image: url('.rsschool-cv-html/sky.jpg');
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
 
   }
+
+ body {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    margin: 0 auto;
+}
 
 * {
     box-sizing: border-box;
