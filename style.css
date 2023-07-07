@@ -1,11 +1,170 @@
-<!doctype html>
-<html lang="ru">
-<head>
-  <meta charset="utf-8" />
-  <title></title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
- ...    
-</body>
-</html>
+body {
+  background-image: url('.rsschool-cv-html/sky.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+  }
+
+ body {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+      .container {
+        max-width: 1440px;
+        margin: 0 auto;
+      }
+
+      .nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      .nav-list {
+        list-style: none;
+      }
+
+      .nav-link {
+        padding: 0 10px;
+        line-height: 50px;
+        text-decoration: none;
+        font-size: 20px;
+      }
+
+      .nav-link:hover {
+        background-color: #FFD700;
+      }
+
+      .nav-link {
+        transition: .3s;
+      }
+
+      .section-profile-logo {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10% 50%;
+
+      }
+
+
+      .section-profile-title {
+        display: inline-flex;
+        flex-direction: column;
+      }
+
+      .section {
+        width: 30%;
+        text-decoration: none;
+      }
+
+      .section {
+        width: 40%;
+        font-size: 20px;
+
+      }
+
+        .section-title {
+        font-size: 25px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 7px;
+        color: #f48110;
+        -webkit-text-stroke: .03em rgb(10, 9, 1);
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      li {
+        margin-bottom: 10px;
+      }
+
+      .contacts-item a {
+        color: #ffee00;
+        text-decoration: none;
+      }
+
+      .contacts-item a:hover {
+        color: #ff0000;
+      }
+
+      .contacts-item a[href^="https://t.me/"] {
+        color: #ffee00;
+        text-decoration: none;
+      }
+      .contacts-item a:hover {
+        color: #ff0000;
+      }
+
+      .projects-link {
+        color: #ffee00;
+        text-decoration: none;
+      }
+
+      .container-main {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .container-main {
+        display: flex;
+        flex-basis: 50%;
+      }
+        @media (max-width: 768px) {
+          .section {
+            width: 100%;
+          }
+        }
+
+      .footer {
+        height: 50px;
+        margin-top: 70px;
+      }
+      .layout-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: left;
+        overflow: auto;
+        text-align: justify;
+      }
+
+.container-footer {
+        display: flex;
+        height: 100%;
+        justify-content: space-around;
+        align-items: center;
+      }
+
+      .container-footer {
+        width: 100%;
+        margin: 0 auto;
+        background: #767776;
+    }
+
+         #rs-logo {
+        display: block;
+        width: 82px;
+        opacity: 70%;
+        transition: opacity 0.2s;
+    }
